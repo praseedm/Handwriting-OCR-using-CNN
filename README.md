@@ -10,3 +10,6 @@ A Deeplearning model for Handwritten character recognition using Convolutional N
 * Keras
 * Tensorflow
 * Flask
+
+#### Dataset
+## ![](/img/data.png)
