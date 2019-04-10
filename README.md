@@ -13,3 +13,6 @@ A Deeplearning model for Handwritten character recognition using Convolutional N
 
 #### Dataset
 ## ![](/img/data.png)
+
+#### Model
+## ![](/img/model.png)
